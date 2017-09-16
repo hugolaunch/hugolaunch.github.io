@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on My Number Four</title>
+    <link>http://example.com/tags/blog/</link>
+    <description>Recent content in Blog on My Number Four</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jul 2015 09:32:45 -0400</lastBuildDate>
+    <atom:link href="http://example.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Oh my...</title>
+      <link>http://example.com/post/welcome/</link>
+      <pubDate>Tue, 28 Jul 2015 09:32:45 -0400</pubDate>
+      
+      <guid>http://example.com/post/welcome/</guid>
+      <description>&lt;p&gt;Lorem Ipsum Dolot Sit Amet&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
