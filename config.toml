@@ -1,4 +1,4 @@
-baseurl = "http://example.com/"
+baseurl = "http://hugolaunch.github.io/"
 theme = "hugo-geo"
 themesdir = "themes"
 publishDir = "docs"
