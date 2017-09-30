@@ -3,56 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hugolaunch.github.io/post/second/</loc>
+    <loc>https://yourdomain.com/post/second/</loc>
     <lastmod>2015-07-18T14:08:30+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hugolaunch.github.io/post/first/</loc>
+    <loc>https://yourdomain.com/post/first/</loc>
     <lastmod>2015-07-18T14:08:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hugolaunch.github.io/event/mock-test/</loc>
+    <loc>https://yourdomain.com/event/mock-test/</loc>
     <lastmod>2017-09-17T22:12:36+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://hugolaunch.github.io/about/about/</loc>
+    <loc>https://yourdomain.com/about/about/</loc>
     <lastmod>2015-07-18T14:08:35+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hugolaunch.github.io/</loc>
+    <loc>https://yourdomain.com/</loc>
     <lastmod>2015-07-18T14:08:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hugolaunch.github.io/about/</loc>
+    <loc>https://yourdomain.com/about/</loc>
     <lastmod>2015-07-18T14:08:35+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hugolaunch.github.io/categories/</loc>
+    <loc>https://yourdomain.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hugolaunch.github.io/event/</loc>
+    <loc>https://yourdomain.com/event/</loc>
     <lastmod>2017-09-17T22:12:36+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hugolaunch.github.io/post/</loc>
+    <loc>https://yourdomain.com/post/</loc>
     <lastmod>2015-07-18T14:08:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hugolaunch.github.io/tags/</loc>
+    <loc>https://yourdomain.com/tags/</loc>
     <priority>0</priority>
   </url>
   
